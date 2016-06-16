@@ -1,5 +1,6 @@
 A simple node.js lib to authenticate against an LDAP server.
 
+*NOTE:* Fork of the original [https://github.com/trentm/node-ldapauth](node-ldapauth package)
 
 # Usage
 
